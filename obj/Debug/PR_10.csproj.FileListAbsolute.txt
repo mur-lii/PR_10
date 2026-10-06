@@ -1,0 +1,7 @@
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_10\bin\Debug\PR_10.exe.config
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_10\bin\Debug\PR_10.exe
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_10\bin\Debug\PR_10.pdb
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_10\obj\Debug\PR_10.csproj.AssemblyReference.cache
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_10\obj\Debug\PR_10.csproj.CoreCompileInputs.cache
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_10\obj\Debug\PR_10.exe
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_10\obj\Debug\PR_10.pdb
