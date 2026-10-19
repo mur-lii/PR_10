@@ -1,0 +1,7 @@
+C:\Users\voler\Desktop\Лис\PR_10\bin\Debug\PR_10.exe.config
+C:\Users\voler\Desktop\Лис\PR_10\bin\Debug\PR_10.exe
+C:\Users\voler\Desktop\Лис\PR_10\bin\Debug\PR_10.pdb
+C:\Users\voler\Desktop\Лис\PR_10\obj\Debug\PR_10.csproj.AssemblyReference.cache
+C:\Users\voler\Desktop\Лис\PR_10\obj\Debug\PR_10.csproj.CoreCompileInputs.cache
+C:\Users\voler\Desktop\Лис\PR_10\obj\Debug\PR_10.exe
+C:\Users\voler\Desktop\Лис\PR_10\obj\Debug\PR_10.pdb
